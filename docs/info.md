@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a simple 4-bit R2R DAC similar to the example.  
 
 ## How to test
 
-Explain how to use your project
+Punt in a 4 bit strait case signal from 0000 to 1111 in steps of 1 on A0 A1 A2 and A3.  Note that the LSB is controlled by pin UIN_0, not UIB_3.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+ADALM2000 in digital mode.
