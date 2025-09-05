@@ -13,7 +13,7 @@ This is a simple 4-bit R2R DAC similar to the example.
 
 ## How to test
 
-Punt in a 4 bit strait case signal from 0000 to 1111 in steps of 1 on A0 A1 A2 and A3.  Note that the LSB is controlled by pin UIN_0, not UIB_3.
+Punt in a 4-bit straight case signal from 0000 to 1111 in steps of 1 on A0, A1, A2, and A3.  Note that the LSB is controlled by pin UIN_0, not UIB_3.
 
 ## External hardware
 
