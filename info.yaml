@@ -3,7 +3,7 @@ project:
   title:        "4-bit R2R DAC"      # Project title
   author:       "David Parent"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Converts a 4 bit wide signal to an analog signal"      # One line description of what your project does
+  description:  "Converts a 4-bit wide signal to an analog signal"      # One line description of what your project does
   language:     "Analog" # other examples include Verilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
